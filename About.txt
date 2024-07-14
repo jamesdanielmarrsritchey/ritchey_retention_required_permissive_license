@@ -1,0 +1,15 @@
+Name: Ritchey Retention-Required Permissive License
+Version: 5
+Long Identifier: Ritchey Retention-Required Permissive License v5
+Short Identifier: RRPLv5
+Description: A permissive license.
+History:
+ - Version 1 completed.
+ - Version 2 completed.
+ - Version 3 completed.
+ - Version 4 completed.
+ - Version 5 completed July 14, 2024.
+Author:James Daniel Marrs Ritchey
+Licensing: This project is hereby licensed under the terms of the Ritchey Retention-Required Permissive License v5 license.
+Notes:
+- 
