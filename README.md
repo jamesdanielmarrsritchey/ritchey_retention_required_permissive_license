@@ -1,0 +1,1 @@
+# ritchey_retention_required_permissive_license
