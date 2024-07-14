@@ -1,4 +1,4 @@
-Ritchey Retention-Required Permissive License v5
+Ritchey Retention Required Permissive License v5
 
 Definitions
 
@@ -24,8 +24,6 @@ If any portion of this license is known by the Licensee to have been previously 
 Permissions
 
 The Licensee is granted royalty-free, perpetual, non-exclusive, non-transferable permission to do anything with the Creative Work, which does not violate any part of this license.
-
-The Creative Work may only be included in, or distributed with, Material which is licensed under this license, in addition to any other licenses applied to the Material.
 
 Restrictions
 
