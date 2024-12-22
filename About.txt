@@ -1,7 +1,7 @@
 Name: Ritchey Retention Required Permissive License
-Version: 6
-Long Identifier: Ritchey Retention Required Permissive License v6
-Short Identifier: RRRPLv6
+Version: 7
+Long Identifier: Ritchey Retention Required Permissive License v7
+Short Identifier: RRRPLv7
 Description: A permissive license.
 History:
  - Version 1 completed.
@@ -10,7 +10,8 @@ History:
  - Version 4 completed.
  - Version 5 completed July 14, 2024.
  - Version 6 completed July 15, 2024.
+ - Version 7 completed December 22, 2024.
 Author:James Daniel Marrs Ritchey
-Licensing: This project is hereby licensed under the Ritchey Retention Required Permissive License v6 license.
+Licensing: This project is hereby licensed under the Ritchey Retention Required Permissive License v7 license.
 Notes:
 - 
